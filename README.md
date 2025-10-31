@@ -11,6 +11,11 @@ A web-based application that analyzes the sentiment of food reviews using Machin
 - Support for positive, negative, and neutral sentiment classification
 - Interactive results with emoji indicators
 
+### Dataset
+[Amazon Fine Food Reviews](https://www.kaggle.com/code/chirag9073/amazon-fine-food-reviews-sentiment-analysis)
+
+**Download the dataset and rename it as Reviews.csv if you want to train the model from the start.**
+
 ## 📊 Technical Details
 
 - **Model**: Linear Support Vector Classification (LinearSVC)
